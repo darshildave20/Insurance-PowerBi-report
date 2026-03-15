@@ -232,7 +232,7 @@ Implemented **Dynamic Row-Level Security** to ensure stakeholders see only their
 ## 📁 Repository Contents
 
 ```
-Insurance--PowerBI-report/
+Insurance-PowerBI-report/
 │
 ├── README.md                          # Project documentation (this file)
 ├── Insurance.pbix                     # Power BI dashboard file
