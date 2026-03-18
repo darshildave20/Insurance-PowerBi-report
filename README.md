@@ -1,8 +1,8 @@
-# Insurance Policy Analysis Dashboard - Power BI
+# Insurance Policy Analysis Report - Power BI
 
 ## 📊 Project Overview
 
-A comprehensive **Insurance Policy Analysis Dashboard** built in Microsoft Power BI to analyze insurance policy performance, customer demographics, and financial metrics. This interactive dashboard provides stakeholders with a unified view of the insurance business lifecycle, enabling data-driven decision-making across policy performance, claims analysis, maturity forecasting, and operational efficiency.
+A comprehensive **Insurance Policy Analysis Report** built in Microsoft Power BI to analyze insurance policy performance, customer demographics, and financial metrics. This interactive Report provides stakeholders with a unified view of the insurance business lifecycle, enabling data-driven decision-making across policy performance, claims analysis, maturity forecasting, and operational efficiency.
 
 ---
 
@@ -24,7 +24,7 @@ This project delivers a complete insurance policy lifecycle analytics solution w
 ## 📂 Data Model & Architecture
 
 ### **Data Sources:**
-The dashboard integrates comprehensive insurance data, capturing the complete policy lifecycle including policy creation, tenure tracking, customer demographics, claims processing, loan information, and maturity calculations.
+The Report integrates comprehensive insurance data, capturing the complete policy lifecycle including policy creation, tenure tracking, customer demographics, claims processing, loan information, and maturity calculations.
 
 ### **Data Tables:**
 
@@ -147,7 +147,7 @@ Implemented **Dynamic Row-Level Security** to ensure stakeholders see only their
 ## 🛠️ Technologies & Tools
 
 **Business Intelligence:**
-- **Microsoft Power BI Desktop** - Dashboard development and data modeling
+- **Microsoft Power BI Desktop** - Report development and data modeling
 - **Power BI Service** - Publishing, sharing, and RLS deployment
 - **Power Query** - Data transformation and ETL processes
 
@@ -164,12 +164,12 @@ Implemented **Dynamic Row-Level Security** to ensure stakeholders see only their
 
 ---
 
-## 📊 Dashboard Features
+## 📊 Report Features
 
 ### **Interactive Visualizations:**
 - **Policy Performance Metrics:** Track active, lapsed, and closed policies
 - **Premium Analysis:** Monthly/quarterly/yearly premium collection trends
-- **Claims Dashboard:** Monitor claim settlement performance
+- **Claims Report:** Monitor claim settlement performance
 - **Geographic Performance:** State-wise and region-wise policy distribution
 - **Agent Performance:** Sales agent productivity and policy sales tracking
 - **Maturity Forecasting:** Projected maturity amounts and timelines
@@ -219,13 +219,13 @@ Implemented **Dynamic Row-Level Security** to ensure stakeholders see only their
 
 ## 🎓 Skills Demonstrated
 
-✅ **Advanced Power BI Development:** Complex data modeling, DAX optimization, interactive dashboards  
+✅ **Advanced Power BI Development:** Complex data modeling, DAX optimization, interactive Reports  
 ✅ **Row-Level Security:** Multi-role security implementation with dynamic DAX  
 ✅ **Financial Modeling:** ROI, CAGR, maturity calculations, premium schedules  
 ✅ **DAX Proficiency:** USERPRINCIPALNAME(), LOOKUPVALUE(), CONTAINSSTRING(), IF(), IN operator  
 ✅ **Data Governance:** Security implementation, role-based access control  
 ✅ **Business Intelligence:** Translating business requirements into analytical solutions  
-✅ **Stakeholder Management:** Creating dashboards for multiple user personas  
+✅ **Stakeholder Management:** Creating Reports for multiple user personas  
 
 ---
 
@@ -235,7 +235,7 @@ Implemented **Dynamic Row-Level Security** to ensure stakeholders see only their
 Insurance-PowerBI-report/
 │
 ├── README.md                          # Project documentation (this file)
-├── Insurance.pbix                     # Power BI dashboard file
+├── Insurance.pbix                     # Power BI Report file
 ```
 
 ---
